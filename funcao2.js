@@ -5,7 +5,7 @@
 // SPLIT indica pra funçao qual o caractere eu vou separar oo
 //vetores. no exemplo abaixo o caractere é "espaço"
 
-let userName = getFirstName ("Flávio Alves de Souza")
+let userName = getFirstName ("Fernanda Bicalho")
 
 console.log("Seja Bem vindo " + userName)
 
